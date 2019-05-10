@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ca4b8de.chunk.css",
+    "main.js": "/static/js/main.144d6b31.chunk.js",
+    "main.js.map": "/static/js/main.144d6b31.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.ddcbe597.chunk.js": "/static/js/2.ddcbe597.chunk.js",
+    "static/js/2.ddcbe597.chunk.js.map": "/static/js/2.ddcbe597.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d97bcbdd5456c261fac8f07f70282d12.js": "/precache-manifest.d97bcbdd5456c261fac8f07f70282d12.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2ca4b8de.chunk.css.map": "/static/css/main.2ca4b8de.chunk.css.map",
+    "static/media/index.css": "/static/media/Subtle-Prism.1834987f.svg",
+    "static/media/baseline-phone_iphone-24px.svg": "/static/media/baseline-phone_iphone-24px.790e763e.svg",
+    "static/media/facebook.svg": "/static/media/facebook.98829206.svg",
+    "static/media/iconfinder-icon.svg": "/static/media/iconfinder-icon.e383c2fa.svg",
+    "static/media/icons8-menu.svg": "/static/media/icons8-menu.1369fdae.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.10066afa.svg",
+    "static/media/octocat.svg": "/static/media/octocat.5728232a.svg"
+  }
+}
